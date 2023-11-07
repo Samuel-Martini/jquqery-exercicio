@@ -18,9 +18,9 @@ header {
     justify-content: center;
 }
 
+
 ol li{
-    display: flex;
-    justify-content: center;
+    margin-left: 70px;
     margin-top: 16px;
 }
 
