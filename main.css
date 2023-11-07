@@ -18,7 +18,7 @@ header {
     justify-content: center;
 }
 
-ul li{
+ol li{
     display: flex;
     justify-content: center;
     margin-top: 16px;
@@ -28,6 +28,6 @@ ul li{
     text-decoration: line-through;
 }
 
-ul:hover{
+ol:hover{
     cursor: pointer;
 }
